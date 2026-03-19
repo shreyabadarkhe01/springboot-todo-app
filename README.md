@@ -3,6 +3,12 @@
 A simple and clean **REST API-based Todo application** built using **Spring Boot** and **PostgreSQL**. This project demonstrates CRUD operations, database integration, and API design — making it a great backend starter project.
 
 ---
+#### 🌍 Live Demo
+API Base URL:
+https://your-app.onrender.com/api/todos
+
+Swagger UI:
+https://your-app.onrender.com/swagger-ui/index.html
 
 ## 🚀 Features
 
