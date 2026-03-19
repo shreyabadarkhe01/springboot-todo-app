@@ -106,6 +106,30 @@ POST /api/todos
 
 ---
 
+##📘 API Documentation (Swagger UI)
+
+This project uses Swagger UI for interactive API documentation.
+👉 Access Swagger UI after running the application:
+http://localhost:8081/swagger-ui/index.html
+
+#🔍 Features
+- View all available API endpoints
+- Test APIs directly from the browser
+- Send request bodies (JSON)
+- View real-time responses
+- No need for external tools like Postman
+
+📸 Example
+You can:
+* Create a new Todo
+* Fetch all Todos
+* Update or delete tasks
+- All directly from Swagger UI 🎯
+
+## 📷 Swagger UI Preview
+![Swagger UI](screenshots/swagger-ui.png)
+
+
 ## 📸 Future Improvements
 
 * Add Service Layer (clean architecture)
